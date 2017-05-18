@@ -1,0 +1,11 @@
+com\meetups\configuration\MeetUpsInitializer.class
+com\meetups\controller\MeetupController.class
+com\meetups\model\Status.class
+com\meetups\model\Meetup.class
+com\meetups\dao\UserDaoImpl.class
+com\meetups\configuration\ApplicationConfiguration.class
+com\meetups\dao\UserDao.class
+com\meetups\controller\UserController.class
+com\meetups\configuration\MeetUpsConfiguration.class
+com\meetups\dao\MeetupDAO.class
+com\meetups\model\Users.class
